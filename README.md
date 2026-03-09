@@ -2,6 +2,8 @@
 
 本專案為 Anthropic 官方文件 **"The Complete Guide to Building Skills for Claude"** 的繁體中文翻譯版本。
 
+![alt text](./assets/image.png)
+
 ## 關於本指南
 
 Skill 是一組以資料夾形式打包的指令，用來教導 Claude 如何處理特定任務或工作流程。本指南涵蓋建構有效 Skill 的所有知識——從規劃與結構到測試與發佈。
